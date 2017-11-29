@@ -1,0 +1,2 @@
+# mj-blog
+MJ Blog
